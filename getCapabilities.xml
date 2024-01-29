@@ -237,7 +237,7 @@
 				<Title>localidades_bogota</Title>
 				<Abstract>GH:localidades_bogota ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-74.44977952799991" miny="3.731030342000054" maxx="-73.98653427799991" maxy="4.836779095000054"></LatLonBoundingBox>
@@ -257,7 +257,7 @@
 				<Title>barrios_bogota</Title>
 				<Abstract>GH:barrios_bogota ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-74.45072416299996" miny="3.730672533000075" maxx="-73.98901808199997" maxy="4.836829358000045"></LatLonBoundingBox>
