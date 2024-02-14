@@ -1,0 +1,301 @@
+qc_id,item,nombre_y_a,cedula,grupo_del,telefono,zona,localizaci,latitud,longitud,coordenada,municipio,departamen,mejoramien,revisión,icon_url
+"0",1,Obed  Silva Guerrero,80402510,A5,3102662640,Rural,San Nicolas,4.759361,-74.653528,"4°45'33.7""N 74°39'12.7""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"1",2,Yaneth  Muñoz  Jimenez,28576098,C9,3124723480,Rural,San Jose,4.747222,-74.657083,"4°44'50.0""N 74°39'25.5""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"2",3,Maria Cleotilde Silva Gaona,20904990,B6,3138399340,Rural,San Nicolas,4.762056,-74.659778,"4°45'43.4""N 74°39'35.2""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"3",4,Luz Aurora Rigueros,20902166,C1,3142454410,Rural,San Nicolas,4.7715,-74.67325,"4°46'17.4""N 74°40'23.7""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"4",5,Maria Amparo Ruiz Lovera,20904571,A1,3229193990,Rural,San Nicolas,4.742194,-74.66875,"4°44'31.9""N 74°40'07.5""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"5",6,Vidal Orozco Perez,79628294,B4,3124907050,Rural,San Nicolas,4.778194,-74.664333,"4°46'41.5""N 74°39'51.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"6",7,Jose Juan Morales Garcia,80402410,B6,3214163960,Rural,San Jose,4.748861,-74.676278,"4°44'55.9""N 74°40'34.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"7",8,Rafael  de Jesus Diaz Fontecha,13689911,C1,3212921700,Rural,Honduras,4.782889,-74.665306,"4°46'58.4""N 74°39'55.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"8",9,Jose Islaminio Morales Garcia,80403037,NT*,3214242250,Rural,San Nicolas,4.768139,-74.670583,"4°46'05.3""N 74°40'14.1""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"9",10,Alvaro Pedraza  Millan,80401626,B5,3113102560,Rural,San Nicolas,4.7765,-74.670278,"4°46'35.4""N 74°40'13.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"10",11,Nuvia Esther Tellez Pineda-,52587456,NT*,3144411570,Rural,San Nicolas,4.76525,-74.676194,"4°45'54.9""N 74°40'34.3""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"11",12,Maria del Carmen Peña Navarrete-,20837536,B2,3214528190,Rural,San Nicolas,4.769639,-74.672167,"4°46'10.7""N 74°40'19.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"12",13,Flor Marina Millan Cardenas,20904889,B2,3102209640,Rural,San Nicolas,4.773778,-74.671333,"4°46'25.6""N 74°40'16.8""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"13",14,Maria Anais Castaño  de Marin-,24290786,NT*,3117007960,Rural,San Nicolas,4.765583,-74.676222,"4°45'56.1""N 74°40'34.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"14",15,Carlos  Andrés Serrato Ospina-,1069433330,NT*,3134184560,Rural,San Nicolas,4.771444,-74.671472,"4°46'17.2""N 74°40'17.3""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"15",16,Clara Maria Ramirez Vasquez,20905977,C2,3105532450,Rural,El totumo,4.831222,-74.630972,"4°49'52.4""N 74°37'51.5""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"16",17,Anibal Ospina Barrios,80402120,B1,3115952040,Rural,San Nicolas,4.749972,-74.674167,"4°44'59.9""N 74°40'27.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"17",18,Jose Basto,3161482,B6,3216063930,Rural,San Nicolas,4.761222,-74.686111,"4°45'40.4""N 74°41'10.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"18",19,Pedro Antonio Silva Martinez-,93368974,B1,3228302770,Rural,San Nicolas,4.764861,-74.676444,"4°45'53.5""N 74°40'35.2""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"19",20,Yissel Paola Soriano Aldana-,1022923350,A5,3227724010,Rural,San Nicolas,4.775667,-74.670028,"4°46'32.4""N 74°40'12.1""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"20",21,Luis Alfonso Casallas -,3162025,C16,3237320570,Rural,Paramito,4.818333,-74.609194,"4°49'06.0""N 74°36'33.1""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"21",22,Yesid  Bernal-,17496439,C8,3209959950,Rural,Paramito,4.825361,-74.601611,"4°49'31.3""N 74°36'05.8""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"22",23,Maria Emelda Gomez Zea-,21016287,B4,3123592880,Rural,Paramito,4.822333,-74.609972,"4°49'20.4""N 74°36'35.9""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"23",24,Jaime Ortiz Romero-,80402614,B4,3118069650,Rural,Paramito,4.819556,-74.611639,"4°49'10.4""N 74°36'41.9""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"24",25,Francisco Javier Suarez Cabezas-,3160909,A3,3027310100,Rural,Paramito,4.814361,-74.608639,"4°48'51.7""N 74°36'31.1""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"25",26,Luis Felipe Morera Montero-,80403391,A3,3186583100,Rural,Paramito,4.822556,-74.610722,"4°49'21.2""N 74°36'38.6""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"26",27,Gladys Mariela Peña,20904561,A4,3239732630,Rural,Paramito,4.821417,-74.601444,"4°49'17.1""N 74°36'05.2""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"27",28,Aurelio  Ocampo Murcia,12252871,C8,3026455870,Rural,Paramito,4.830222,-74.60325,"4°49'48.8""N 74°36'11.7""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"28",29,Eduar Yobany Rodriguez Saavedra-,13617492,B3,3194954440,Rural,Paramito,4.826444,-74.606167,"4°49'35.2""N 74°36'22.2""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"29",30,Ana Maria Barragan Enciso-,20903031,D2,3236410550,Rural,Paramito,4.826528,-74.613972,"4°49'35.5""N 74°36'50.3""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"30",31,Maria Cristina Manrique,20905382,B6,3134129070,Rural,Paramito,4.820778,-74.602028,"4°49'14.8""N 74°36'07.3""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"31",32,Blanca Mireya Quevedo Chirivi-,20905541,A3,3237146170,Rural,Paramito,4.821972,-74.6065,"4°49'19.1""N 74°36'23.4""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"32",33,Olga Lucia Rodriguez-,40363063,A4,3027892980,Rural,Paramito,4.816361,-74.602222,"4°48'58.9""N 74°36'08.0""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"33",34,Gladys Moreno-,20905605,A5,3238748750,Rural,Paramito,4.828,-74.598806,"4°49'40.8""N 74°35'55.7""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"34",35,Olga Liliana Morera Montero-,20906199,B2,3204401710,Rural,Paramito,4.822917,-74.614806,"4°49'22.5""N 74°36'53.3""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"35",36,Jose Ismael Morera -,3239104,A3,3196879800,Rural,Paramito,4.822722,-74.61,"4°49'21.8""N 74°36'36.0""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"36",37,Victor Antonio Montero Peña,80403159,B2,3027050440,Rural,Paramito,4.824833,-74.594444,"4°49'29.4""N 74°35'40.0""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"37",38,Carmen Rosa Sierra De Rangel,20902139,B3,3213356370,Rural,San antonio,4.862194,-74.610278,"4°51'43.9""N 74°36'37.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"38",39,Ermes Varon Cardenas-,80403763,B6,3115155480,Rural,El hato,4.78975,-74.610667,"4°47'23.1""N 74°36'38.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"39",40,Jose Cibares Garcia Rodriguez-,1054658210,A2,3143603330,Rural,El hato,4.797639,-74.614722,"4°47'51.5""N 74°36'53.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"40",41,Jose Alfredo Sierra Cardenas-,79208542,B6,3102838510,Rural,Lagunitas,4.763222,-74.623778,"4°45'47.6""N 74°37'25.6""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"41",42,Maria Trinidad Quintero Gomez,52240779,B1,3027273700,Rural,El hato,4.801694,-74.605139,"4°48'06.1""N 74°36'18.5""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"42",43,Pedro Alejo Vargas Molina-,80403387,B1,3143838350,Rural,El hato,4.792472,-74.606667,"4°47'32.9""N 74°36'24.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"43",44,Maria Miyareth Sanchez Sosa,20906336,A5,3223663800,Rural,San antonio,4.854611,-74.612583,"4°51'16.6""N 74°36'45.3""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"44",45,Jose Vicente Ovalle Rubio,3162545,B1,3219945120,Rural,San antonio,4.857528,-74.618194,"4°51'27.1""N 74°37'05.5""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"45",46,Ana Lucia Millan de Castro,20903356,D5,3223233460,Rural,San antonio,4.861528,-74.609944,"4°51'41.5""N 74°36'35.8""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"46",47,Hector Enrique Camelo,1069434490,C4,3229382230,Rural,San antonio,4.857444,-74.617917,"4°51'26.8""N 74°37'04.5""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"47",48,Melida Henao De Clavijo,41739618,B3,3143942400,Rural,San antonio,4.857667,-74.618083,"4°51'27.6""N 74°37'05.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"48",49,Maria Amanda Hernandez Tovar,28725231,C2,3204386360,Rural,San antonio,4.857444,-74.617917,"4°51'26.8""N 74°37'04.5""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"49",50,Gilveriano Cifuentes Rubio,93010524,C2,3175770750,Rural,San antonio,4.85725,-74.617889,"4°51'26.1""N 74°37'04.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"50",51,Nelson Herminto Arias Rojas,95450032,NT*,3125362970,Rural,San antonio,4.857167,-74.617139,"4°51'25.8""N 74°37'01.7""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"51",52,Anabeiba Gonzalez,41716873,B5,3102861720,Rural,San antonio,4.857778,-74.617833,"4°51'28.0""N 74°37'04.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"52",53,Rosalba Robayo Molina-,23682148,A4,3203318680,Rural,El hato,4.793333,-74.612056,"4°47'36.0""N 74°36'43.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"53",54,Luis Alberto Torres Torres,1069433770,A3,3107656600,Rural,Capri,4.780472,-74.641639,"4°46'49.7""N 74°38'29.9""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"54",55,Nubia Ines Rangel-,20904304,A5,3118951040,Rural,Lagunitas,4.772361,-74.611111,"4°46'20.5""N 74°36'40.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"55",56,Rosa Maria Montenegro Rincon-,20903430,B5,3217970120,Rural,Lagunitas,4.768556,-74.622139,"4°46'06.8""N 74°37'19.7""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"56",57,Carlos Adaime Herreño Montenegro-,80403842,B5,3127222700,Rural,Lagunitas,4.768556,-74.622139,"4°46'06.8""N 74°37'19.7""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"57",58,Fanny Ramírez Moreno,1030667670,C4,3144671840,Rural,San Nicolas,4.768972,-74.673278,"4°46'08.3""N 74°40'23.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"58",59,Carlos Arturo Molina Garzon-,80401567,C2,3202533950,Rural,El hato,4.796194,-74.616444,"4°47'46.3""N 74°36'59.2""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"59",60,Jose Manuel Caceres Avendaño-,80404160,C8,3118576450,Rural,El hato,4.793278,-74.616028,"4°47'35.8""N 74°36'57.7""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"60",61,Maria del Carmen Avendaño de Caceres-,20902554,A4,3118576450,Rural,El hato,4.792361,-74.618778,"4°47'32.5""N 74°37'07.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"61",62,Leopoldo Torres Cespedes-,3160861,A4,3108126420,Rural,Capri,4.790778,-74.644694,"4°47'26.8""N 74°38'40.9""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"62",63,Mercedes Gomez Romero-,20904890,A5,3227510790,Rural,Capri,4.789778,-74.643389,"4°47'23.2""N 74°38'36.2""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"63",64,Liliana Baron Ortiz-,20906358,A4,3108126420,Rural,Capri,4.790778,-74.645528,"4°47'26.8""N 74°38'43.9""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"64",65,Flor Alba Torres Torres-,20905102,B4,3144176230,Rural,Capri,4.776944,-74.639278,"4°46'37.0""N 74°38'21.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"65",66,Cesar Torres Torres-,1069434120,B4,3237679470,Rural,Capri,4.778306,-74.637833,"4°46'41.9""N 74°38'16.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"66",67,Sara Mercedes Cortes Suarez,39640876,A4,3025926590,Rural,El hato,4.794306,-74.619389,"4°47'39.5""N 74°37'09.8""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
+"67",68,Marcela Contreras Barragan-,1013595070,A1,3228981310,Rural,Olivos bajo,4.787972,-74.609,"4°47'16.7""N 74°36'32.4""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"68",69,Stella Rodriguez Gonzalez,52340509,B2,3103211310,Rural,San antonio,4.86175,-74.610056,"4°51'42.3""N 74°36'36.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"69",70,Reyes Rangel Sierra,80403457,A5,3026362910,Rural,Lagunitas,4.758111,-74.618833,"4°45'29.2""N 74°37'07.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"70",71,Blanca Elvia Gonzalez-,20905969,B5,3026738060,Rural,San antonio,4.861861,-74.610583,"4°51'42.7""N 74°36'38.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"71",72,Blanca Lilia Cespedes Castañeda-,20905952,A4,3132294810,Rural,El hato,4.798806,-74.619944,"4°47'55.7""N 74°37'11.8""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"72",73,Mariela Cespedes Castañeda,20905638,B5,3236298770,Rural,El hato,4.795222,-74.617361,"4°47'42.8""N 74°37'02.5""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"73",74,Luz Darys Rubiano Rangel,53052715,A3,3114523440,Rural,Olivos Bajo,4.787278,-74.60425,"4°47'14.2""N 74°36'15.3""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"74",75,Flor Maria Castro Aroca-,1006094750,B2,3227728710,Rural,El hato,4.797472,-74.600417,"4°47'50.9""N 74°36'01.5""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
+"75",76,Luis Mesias Rojas Rincon-,79298978,C7,3506502720,Rural,Lagunitas,4.763528,-74.616889,"4°45'48.7""N 74°37'00.8""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"76",77,Arquimedes Torres Barragan-,80402220,A4,3223851000,Rural,Capri,4.765694,-74.64675,"4°45'56.5""N 74°38'48.3""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"77",78,Nohora Sosa Hernandez,20905620,A4,3236375860,Rural,Lagunitas,4.768778,-74.61375,"4°46'07.6""N 74°36'49.5""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"78",79,Daniel Ramírez Pedraza,80402257,B2,3112238530,Rural,San Nicolas,4.768972,-74.673278,"4°46'08.3""N 74°40'23.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"79",80,Pedro Antonio Sierra Cardenas-,80402612,C2,3142643560,Rural,Lagunitas,4.763889,-74.624444,"4°45'50.0""N 74°37'28.0""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"80",81,Jairo Sosa Hernandez,80404199,A1,3153077790,Rural,Lagunitas,4.76875,-74.613556,"4°46'07.5""N 74°36'48.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"81",82,Marina Rodriguez Muñoz-,40384210,A3,3123249140,Rural,El hato,4.79325,-74.619056,"4°47'35.7""N 74°37'08.6""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"82",83,Javier Enaldo Varon Cardenas,80403558,A4,3229119470,Rural,Olivos bajo,4.787889,-74.609056,"4°47'16.4""N 74°36'32.6""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
+"83",84,Bernardo Rangel Torres,80402810,B3,3138885940,Rural,Lagunitas,4.763444,-74.607583,"4°45'48.4""N 74°36'27.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"84",85,Jose Alejandro Torres,3162805,B5,3102693110,Rural,Capri,4.767417,-74.643722,"4°46'02.7""N 74°38'37.4""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
+"85",86,Maria Claudia Munar Cardenas,52120822,B6,3142460410,Rural,Lagunitas,4.787333,-74.614722,"4°47'14.4""N 74°36'53.0""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"86",87,Claudia Prieto,20989368,C5,3229382220,Rural,Lagunitas,4.741639,-74.607778,"4°44'29.9""N 74°36'28.0""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"87",88,Mauricio Riaño,11447981,A5,3174421200,Rural,San antonio,4.85625,-74.617,"4°51'22.5""N 74°37'01.2""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"88",89,Edgar  Espitia Escalante,79459877,B3,3133340500,Rural,San Jose,4.74825,-74.677722,"4°44'53.7""N 74°40'39.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"89",90,Sandra Cristina Rubiano Rangel,20906339,A3,3238748750,Rural,Olivos bajo,4.791167,-74.612611,"4°47'28,2""N 74°36'45,4""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"90",91,Luis Alfredo Romero Munar-,80401502,B3,3236410570,Rural,Olivos bajo,4.798806,-74.619944,"4°47'55.7""N 74°37'11.8""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"91",92,Ana Yibe Salamanca Rodriguez-,23798922,C9,3022941090,Rural,San Nicolas,4.765722,-74.676333,"4°45'56.6""N 74°40'34.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"92",93,Dora Alba Pedraza Millan,20904418,B1,3134870870,Rural,San Nicolas,4.7765,-74.670278,"4°46'35.4""N 74°40'13.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"93",94,Pedro Alirio Ospina Oliveros,3162981,B1,3023820920,Rural,San Nicolas,4.773056,-74.669722,"4°46'23.0""N 74°40'11.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"94",95,María Fernanda Ospina Domínguez,1069434880,B3,3236016600,Rural,San Nicolas,4.773528,-74.669389,"4°46'24.7""N 74°40'09.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"95",96,Gladys Barragan Torres,20906107,A2,3128239070,Rural,Volcan alto,4.773722,-74.600583,"4°46'25.4""N 74°36'02.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"96",97,Sergio Andres Muñoz Gavilan-,1033702540,A4,3202719670,Rural,San Nicolas,4.768083,-74.671,"4°46'05.1""N 74°40'15.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"97",98,Jose Alejo Gutiérrez Moya,378504,B1,3123171010,Rural,Lagunitas,4.787333,-74.614722,"4°47'14.4""N 74°36'53.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"98",99,Jacinto Pedraza Millan,80401614,A3,3134870870,Rural,San Nicolas,4.7765,-74.670278,"4°46'35.4""N 74°40'13.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"99",100,Luz Mery Saldaña Torres,1069432960,A4,3026735090,Rural,Capri,4.775528,-74.643,"4°46'31.9""N 74°38'34.8""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"100",101,Rosa Miriam Enciso,20903351,A4,3138642860,Rural,Honduras,4.79325,-74.664694,"4°47'35.7""N 74°39'52.9""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"101",102,Luz Marina Rangel Padilla,41716774,A4,3167953960,Rural,El totumo,4.815389,-74.641972,"4°48'55.4""N 74°38'31.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"102",103,Anderson Ruiz Lovera,1022367560,A5,3204609260,Rural,San Jose,4.742139,-74.669028,"4°44'31.7""N 74°40'08.5""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"103",104,Raul Alfonso Lopez Chirivi,80830428,NT*,3107611590,Rural,Paramito,4.815861,-74.600056,"4°48'57.1""N 74°36'00.2""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"104",105,Maria Elvira Quintero Rincon,209022766,NT*,3143628130,Rural,Capri,4.7835,-74.640972,"4°47'00.6""N 74°38'27.5""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"105",106,Diana Maria Barragan Molina,20906311,B2,3108143370,Rural,Capri,4.770167,-74.645278,"4°46'12.6""N 74°38'43.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"106",107,Blanca Lucia Cifuentes Bernal,20904952,B1,3025549900,Rural,San Isidro,4.796472,-74.585028,"4°47'47.3""N 74°35'06.1""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"107",108,Rosa Elena Fierro Pulido,20906251,B7,3125035330,Rural,San Jose,4.75025,-74.676056,"4°45'00.9""N 74°40'33.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"108",109,Miguel Antonio Morera Tinoco,3160856,B6,3227357640,Rural,Paramito,4.822556,-74.6035,"4°49'21.2""N 74°36'12.6""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"109",110,Edilmo Caballero Lovera,80402072,A3,3212338660,Rural,San Jose,4.743444,-74.668722,"4°44'36.4""N 74°40'07.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"110",111,Fredy Alexander Barragan Barragan,80404144,C6,3168372670,Rural,Honduras Centro,4.807028,-74.6635,"4°48'25.3""N 74°39'48.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"111",112,Polidoro Garcia,3160251,B3,3188121000,Rural,El capote,4.82675,-74.646806,"4°49'36.3""N 74°38'48.5""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"112",113,Cenaida Gomez,1069128500,B7,3125035340,Rural,El chorrillo,4.804361,-74.650944,"4°48'15.7""N 74°39'03.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"113",114,Hermencia Espitia Riaño,20905079,C3,3202950250,Rural,San antonio,4.863139,-74.61025,"4°51'47.3""N 74°36'36.9""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"114",115,Dario Fernando Avellaneda Cifuentes,1069434660,NT*,3012703280,Rural,San Isidro,4.799417,-74.584,"4°47'57.9""N 74°35'02.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"115",116,Kevin Edwardo Suarez Escobar,1003496100,B4,3194888710,Rural,San Nicolas,4.774111,-74.671139,"4°46'26.8""N 74°40'16.1""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"116",117,Jose Amadeo Sarmiento Diaz,3161684,A3,3025549900,Rural,San Isidro,4.814083,-74.582833,"4°48'50.7""N 74°34'58.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"117",118,Gloria Yasmin Molina Rincon,1069433620,A1,3008453260,Rural,El limon,4.856167,-74.633806,"4°51'22.2""N 74°38'01.7""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"118",119,Pedro Antonio Pedraza Millan,3162923,C10,3123724170,Rural,Batatal,4.78175,-74.66825,"4°46'54.3""N 74°40'05.7""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"119",120,Jose Luis Millan Cardenas,80402761,NT*,3125520900,Rural,San Nicolas,4.774056,-74.671139,"4°46'26.6""N 74°40'16.1""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"120",121,Blanca Leonor Sanchez,20903410,A4,3173011330,Rural,El limon,4.861056,-74.631111,"4°51'39.8""N 74°37'52.0""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
+"121",122,Rosalia Sanabria Cespedes,20903421,A2,3168790500,Rural,El capote,4.830222,-74.639806,"4°49'48.8""N 74°38'23.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"122",123,Agueda Vargas Chaparro,20904994,B5,3143000320,Rural,El capote,4.831194,-74.632889,"4°49'52.3""N 74°37'58.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"270",271,William Saenz Ocampo,1072006440,B1,3208238530,Urbano,Cambao,4.907417,-74.738417,"4°54'26.7""N 74°44'18.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"123",124,Maria Alejandra Garcia Alvarez,1120871080,NT*,3182264960,Rural,El capote,4.8215,-74.651917,"4°49'17.4""N 74°39'06.9""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"124",125,Aldemar Dominguez Tunjano,80402716,C3,3228397340,Rural,San Nicolas,4.761028,-74.653833,"4°45'39.7""N 74°39'13.8""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"125",126,Cristian Quiroga Camacho,80403992,C3,3142346380,Rural,San Jose,4.748417,-74.671222,"4°44'54.3""N 74°40'16.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"126",127,Luis Alberto Varela Cardenas,3162935,A1,3102028390,Rural,Limon alto,4.888056,-74.628222,"4°53'17.0""N 74°37'41.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"127",128,Hector Hernando Marin Gomez,19443204,A3,3229193990,Rural,San Jose,4.7765,-74.670278,"4°46'35.4""N 74°40'13.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"128",129,Beatriz Segura Galeon,20704268,A4,3223853070,Rural,San Jose,4.7765,-74.670278,"4°46'35.4""N 74°40'13.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"129",130,Antonio Maria Bonilla Pulido,3020817,A4,0,Rural,San Jose,4.770056,-74.6725,"4°46'12.2""N 74°40'21.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"130",131,Jorge Eliecer Rangel Sierra,80401920,B2,3125810320,Rural,San Nicolas,4.767,-74.6715,"4°46'01.2""N 74°40'17.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"131",132,Norman Smith Maldonado Suarez,1069434540,B4,3202625810,Rural,San Nicolas,4.7765,-74.670278,"4°46'35.4""N 74°40'13.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"132",133,Eva Esperanza Garcia Lopez,1003496570,A4,3202719670,Rural,San Nicolas,4.768139,-74.670583,"4°46'05.3""N 74°40'14.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"133",134,Yenny Liliana Pedraza Millan,1010016600,B2,3108131110,Rural,San Nicolas,4.778194,-74.664333,"4°46'41.5""N 74°39'51.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"134",135,Blanca Cecilia Pedraza Millan,20904397,D21*,3104824150,Rural,San Nicolas,4.778194,-74.664333,"4°46'41.5""N 74°39'51.6""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"135",136,Julian Pinilla Cortes,80401519,D15,3115306090,Rural,San Nicolas,4.777194,-74.669639,"4°46'37.9""N 74°40'10.7""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"136",137,Elkin Raul Silva Arias,80404136,B3,3102560730,Rural,Batan,4.7765,-74.670278,"4°46'35.4""N 74°40'13.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"137",138,Carlos Santiago Pedraza Tinoco,80403090,B4,3203323850,Rural,San Nicolas,4.773,-74.671278,"4°46'22.8""N 74°40'16.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"138",139,Blanca Cecilia Avendaño Sanchez,20904594,B1,3123113100,Rural,San Nicolas,4.792639,-74.682333,"4°47'33.5""N 74°40'56.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"139",140,Gustavo Velazques Romero,73225022,A2,3229193990,Rural,San Nicolas,4.791611,-74.682694,"4°47'29.8""N 74°40'57.7""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"140",141,Luis Antonio Barragan Tijaro,3162241,B3,3166581380,Rural,Honduras centro,4.80575,-74.663806,"4°48'20.7""N 74°39'49.7""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"141",142,Leidy Marcela Barragan,1026577630,NT*,3168372670,Rural,Honduras centro,4.805194,-74.664361,"4°48'18.7""N 74°39'51.7""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"142",143,Jose Manuel Barragan Martinez,80404142,C1,3168372670,Rural,Honduras centro,4.80425,-74.666139,"4°48'15.3""N 74°39'58.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"143",144,Carlos Arturo Marin,355126,C8,3214990640,Rural,San Nicolas,4.787361,-74.667806,"4°47'14.5""N 74°40'04.1""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"144",145,Elvira Sanchez,20902575,B1,3502423400,Rural,San Nicolas,4.787361,-74.667806,"4°47'14.5""N 74°40'04.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"145",146,Luis Alberto Manrique Sanchez,80402442,B3,3118931190,Rural,San Nicolas,4.787111,-74.668111,"4°47'13.6""N 74°40'05.2""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"146",147,Ximena Enciso Torres,1003495970,B4,3025472850,Rural,El totumo,4.809611,-74.639083,"4°48'34.6""N 74°38'20.7""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"147",148,Rosalba Moreno Pereira,20905537,C2,3045947910,Rural,San Jose,4.749306,-74.67475,"4°44'57.5""N 74°40'29.1""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"148",149,Juan Bautista Barragan Torres,80402985,A4,3108126420,Rural,Capri,4.772528,-74.635833,"4°46'21.1""N 74°38'09.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"149",150,Emilse Perdomo Gutierrez,28589076,B1,3118388760,Rural,Cajitas,4.767333,-74.605556,"4°46'02.4""N 74°36'20.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"150",151,Martha Cecilia Arias,20904187,B1,3118137580,Rural,Batan,4.783,-74.658111,"4°46'58.8""N 74°39'29.2""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"151",152,Hilda Sanchez Rubio,20905861,B4,3202636870,Rural,Batan,4.773056,-74.671194,"4°46'23.0""N 74°40'16.3""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"152",153,Liliana Ardila Diaz,1069435040,A5,3123938950,Rural,La cajita,4.764444,-74.599556,"4°45'52.0""N 74°35'58.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"153",154,Maria Carolina Garay,1069433000,A3,3223021890,Rural,San antonio,4.861417,-74.61525,"4°51'41.1""N 74°36'54.9""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"154",155,Katherine Pinto Segura,1069434220,B3,0,Rural,San antonio,4.861556,-74.615083,"4°51'41.6""N 74°36'54.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"155",156,Heber Gustavo Cruz Basto,19228637,B3,3232265150,Rural,San antonio,4.861583,-74.615167,"4°51'41.7""N 74°36'54.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"156",157,Angie Liceth Lopez Sierra,1069434280,A3,3214614940,Rural,San antonio,4.862028,-74.615472,"4°51'43.3""N 74°36'55.7""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"157",158,Nela Elcy Cruz Basto,41798582,NT*,3214614940,Rural,San antonio,4.861806,-74.614889,"4°51'42.5""N 74°36'53.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"158",159,Jeison Orlando Torres Ramirez,1003496340,C2,3103127830,Rural,San Isidro,4.794306,-74.586444,"4°47'39.5""N 74°35'11.2""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"159",160,Herminda Ovalle Suarez,20910606,A2,3223882970,Rural,San Nicolas,4.767611,-74.671917,"4°46'03.4""N 74°40'18.9""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"160",161,Rosendo Martinez Charri,80401878,B2,3208888570,Rural,El capote,4.824472,-74.660306,"4°49'28.1""N 74°39'37.1""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"161",162,Luis Valerio Cruz Rodriguez,1073159900,A3,3126393090,Rural,Lagunitas,4.758083,-74.618833,"4°45'29.1""N 74°37'7.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"162",163,Alexander Santana Velasquez,1070942250,NT*,3103938230,Rural,Lagunitas,4.763306,-74.612111,"4°45'47.9""N 74°36'43.6""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"163",164,Margarita Rodriguez Urquijo-,20902720,A5,3027667580,Rural,Lagunitas,4.777889,-74.608083,"4°46'40.4""N 74°36'29.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"164",165,Lina Marcela Porras Paez,1069434760,B4,3102123620,Rural,Lagunitas,4.762667,-74.617389,"4°45'45.6""N 74°37'02.6""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"165",166,Sem Edwison Matta Martinez,80403723,D21*,3197357450,Rural,Lagunitas,4.777806,-74.608,"4°46'40.1""N 74°36'28.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"166",167,Gloria Bonilla,65495994,C5,3227147870,Urbano,Cambao,4.905917,-74.731917,"4°54'21.3""N 74°43'54.9""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"167",168,Evelia Tijaro de Barragan,20901662,B5,3168372670,Rural,Honduras centro,4.804861,-74.666056,"4°48'17.5""N 74°39'57.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"168",169,Jose Israel Useche Martinez,2990990,NT*,3143174260,Rural,Santa teresa,4.888306,-74.586806,"4°53'17.9""N 74°35'12.5""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"169",170,Jose Ricardo Ortegon Leon,5978919,B4,3214432350,Rural,Olivos alto,4.785722,-74.583833,"4°47'08.6""N 74°35'01.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"170",171,Leopoldo Arias Zarate,360714,A3,3103156700,Rural,El totumo,4.821556,-74.62725,"4°49'17.6""N 74°37'38.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"171",172,Orlando Torres Barragan,80403000,C2,3114422370,Rural,San Isidro,4.794306,-74.586444,"4°47'39.5""N 74°35'11.2""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"172",173,Andrés Santiago Lopez Pardo,1030645530,C11,3142519060,Rural,El Caucho,4.877389,-74.59025,"4°52'38.6""N 74°35'24.9""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"173",174,Maria de Jesus Velasquez Lopez,20858826,C1,3027310100,Rural,San Isidro,4.792389,-74.58475,"4°47'32.6""N 74°35'05.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"174",175,Alba Bautista Tobarruncho,37695707,B1,0,Rural,San Nicolas,4.769361,-74.671028,"4°46'09.7""N 74°40'15.7""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
+"175",176,Gilberto Pedraza Torres,3161194,C2,3229193990,Rural,San Nicolas,4.770917,-74.672194,"4°46'15.3""N 74°40'19.9""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"176",177,Isabel Florez Sanabria,28097996,C2,3229193990,Rural,San Nicolas,4.771028,-74.672417,"4°46'15.7""N 74°40'20.7""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"177",178,Jesús Ernesto Ruiz Teuta,80402961,D11*,3134802230,Rural,San Nicolas,4.860944,-74.614444,"4°51'39.4""N 74°36'52.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"178",179,Maria Stella Cely Cepeda,51748326,A4,3114097920,Rural,San Nicolas,4.765528,-74.67575,"4°45'55.9""N 74°40'32.7""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"179",180,Gloria Marin Calderon,20902514,A3,3152283700,Rural,Santa teresa,4.872472,-74.595028,"4°52'20.9""N 74°35'42.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"180",181,Didima Rodriguez,20863793,B7,3025549670,Rural,San Isidro,4.804611,-74.584167,"4°48'16.6""N 74°35'03.0""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
+"271",272,Saenz Vasquez,1109380330,C18,3209379800,Urbano,Cambao,4.907556,-74.738194,"4°54'27.2""N 74°44'17.5""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"181",182,Luis Eduardo Bernal Rodriguez,80402111,B2,3025549670,Rural,San Isidro,4.80325,-74.5825,"4°48'11.7""N 74°34'57.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"182",183,Pablo Ramirez Manrique,80403459,B5,3203273560,Rural,San Nicolas,4.769917,-74.672444,"4°46'11.7""N 74°40'20.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"183",184,Ferney Silva,804044011,NT*,3204140060,Rural,San Nicolas,4.77125,-74.673222,"4°46'16.5""N 74°40'23.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"184",185,Isauro Barrios,3164559,C1,3229193990,Rural,San Nicolas,4.770861,-74.672944,"4°46'15.1""N 74°40'22.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"185",186,Jose Dionicio Buitrago Villarraga,3162527,B2,3138641840,Rural,Santa teresa,4.873639,-74.608417,"4°52'25.1""N 74°36'30.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"186",187,Capitolino Muñoz Diaz,80404104,B6,3118960600,Rural,San Nicolas,4.761583,-74.681139,"4°45'41.7""N 74°40'52.1""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"187",188,Jose vicente Cristancho Munar,80403546,C13,3027893000,Rural,San Nicolas,4.770083,-74.672583,"4°46'12.3""N 74°40'21.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"188",189,Maria Luisa Reyes de Guzman,42485272,A4,3235723320,Rural,La cajita,4.766528,-74.605583,"4°45'59.5""N 74°36'20.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"189",190,Ruby Esmeralda Guzman Reyes,49741238,A5,3235723320,Rural,La cajita,4.763389,-74.601167,"4°45'48.2""N 74°36'04.2""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"190",191,Herenia Graciela Garay Rodriguez,51970014,C9,3112533050,Rural,La mesita,4.839361,-74.608222,"4°50'21.7""N 74°36'29.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"191",192,Belen Jimenez,20902419,A3,3227851900,Rural,Lagunitas,4.776444,-74.610278,"4°46'35.2""N 74°36'37.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"192",193,Gladys Contreras Galindo,20902455,B3,3125651430,Rural,Lagunitas,4.782139,-74.619222,"4°46'55.7""N 74°37'09.2""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"193",194,Jose Ismael Sosa Moreno,3161535,B6,3142903270,Rural,Lagunitas,4.768722,-74.613556,"4°46'07.4""N 74°36'48.8""W",San Juan de Rioseco,Cundinamarca,Habitación,Completo,./0.png
+"194",195,Lucila González,39790233,B1,3227357650,Rural,El chorrillo,4.800639,-74.650806,"4°48'02.3""N 74°39'02.9""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"195",196,Flor Marina Moreno Sanabria,39620248,B2,3228712540,Rural,Santa teresa,4.877306,-74.606972,"4°52'38.3""N 74°36'25.1""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"196",197,Raul Guzman Oliveros,80402114,C4,3133229980,Rural,San Nicolas,4.775444,-74.673278,"4°46'31.6""N 74°40'23.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"197",198,Alba Maria Ruiz Bernal,35503789,B6,3241627990,Rural,San Isidro,4.803611,-74.585056,"4°48'13.0""N 74°35'06.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"198",199,Edisson Daniel Ramos Ruiz,1000467860,C14,3025548690,Rural,San Isidro,4.804722,-74.582111,"4°48'17.0""N 74°34'55.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"199",200,Arcenio Bermudez Bermudez,80402139,NT*,3236410570,Rural,Santa teresa,4.866444,-74.610583,"4°51'59.2""N 74°36'38.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"200",201,Blanca Idali Cordoba Benavides,39704955,C12,3115031060,Rural,La libertad,4.822639,-74.585639,"4°49'21.5""N 74°35'08.3""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"201",202,Willian Gonzalo Villalobos Valencia,80403526,A1,3118961130,Rural,Santa teresa,4.893472,-74.610389,"4°53'36.5""N 74°36'37.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"202",203,Wilson Armando Cifuentes Cordoba,1069434830,C6,3142177320,Rural,La libertad,4.822639,-74.585639,"4°49'21.5""N 74°35'08.3""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"203",204,Ovidia Vargas Pedraza,20904833,C9,3115850440,Rural,Santa teresa,4.869083,-74.611694,"4°52'08.7""N 74°36'42.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"204",205,Caren Sofía Moreno Moreno,1069434680,B2,0,Rural,El Hato,4.799583,-74.615694,"4°47'58.5""N 74°36'56.5""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"205",206,Olga Enciso,52257799,A4,3108087210,Rural,El capote,4.823833,-74.64,"4°49'25.8""N 74°38'24.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"206",207,Pompilio Ospina,80402062,B6,3138399340,Rural,San Nicolas,4.761139,-74.658278,"4°45'40.1""N 74°39'29.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"207",208,Edilberto Quiroga Ortiz,3162824,A5,3213256700,Rural,San Jose,4.746611,-74.670694,"4°44'47.8""N 74°40'14.5""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"208",209,Orlando Beltran Quiroga,80402991,B7,3213256700,Rural,San Jose,4.747694,-74.670861,"4°44'51.7""N 74°40'15.1""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"209",210,María Gladys Rocha,20908387,B6,3014723140,Urbano,Cambao,4.914083,-74.732806,"4°54'50.7""N 74°43'58.1""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"210",211,Mary Luz Rodriguez Ramirez,1069434430,A1,3105624800,Rural,Santa teresa,4.871361,-74.618556,"4°52'16.9""N 74°37'06.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"211",212,Dario Cifuentes Ruiz,3160885,B1,3026184580,Rural,San Isidro,4.796639,-74.584944,"4°47'47.9""N 74°35'05.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"212",213,Flor Marina Barrios,20903230,B1,3143749030,Rural,San Jose,4.745,-74.670333,"4°44'42.0""N 74°40'13.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"213",214,Cesar Augusto Romero Ramirez,1003524980,C6,3204462450,Urbano,Cambao,4.908833,-74.737667,4°54’31.8’’N 74°44’15.6’’ W,San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"214",215,Miguel Arcangel Vargas Pineda,3162314,C14,3027310150,Rural,El hato,4.818861,-74.608111,"4°49'07.9""N 74°36'29.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"215",216,Rosalba Ovalle Gomez,20903918,B7,3138946700,Rural,Honduras alto,4.794778,-74.679778,"4°47'41.2""N 74°40'47.2""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"216",217,Flor Marina Cruz Moreno,20904745,C15,3213838510,Rural,El hato,4.817306,-74.611333,"4°49'02.3""N 74°36'40.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"217",218,Gilberto Cruz Moreno,3162502,A5,3027377540,Rural,El hato,4.816056,-74.610139,"4°48'57.8""N 74°36'36.5""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"218",219,Yesid Guzman,80403552,B1,3132676990,Rural,El chorrillo,4.785,-74.658222,"4°47'06.0""N 74°39'29.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"219",220,Lilia Oliveros Suarez,20902668,A2,3026726210,Rural,San Nicolas,4.769306,-74.680806,"4°46'09.5""N 74°40'50.9""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"220",221,Luis Alberto Rojas Franco,1069432480,B3,3114456760,Rural,Honduras bajo,4.770972,-74.686944,"4°46'15.5""N 74°41'13.0""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"221",222,Laudice Franco Guzman,20903584,B1,3204190180,Rural,Honduras bajo,4.770972,-74.686944,"4°46'15.5""N 74°41'13.0""W",San Juan de Rioseco,Cundinamarca,Cocina,Completo,./0.png
+"222",223,Luis Alberto Rojas Guzman,3160908,B1,3204190180,Rural,Honduras bajo,4.770972,-74.686944,"4°46'15.5""N 74°41'13.0""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
+"223",224,Alcira  Morales,23415137,B3,3187712130,Rural,San antonio,4.861389,-74.609889,"4°51'41.0""N 74°36'35.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"224",225,Hector Heli Rodriguez Vera,3162847,A5,0,Rural,San Nicolas,4.769028,-74.673389,"4°46'08.5""N 74°40'24.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"225",226,Luz Stella Ruiz Lovera,20903644,B4,3213359330,Rural,San Jose,4.744917,-74.673028,"4°44'41.7""N 74°40'22.9""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"226",227,Ligia Gutierrez,35500743,B1,3025723890,Rural,El hato,4.815056,-74.617972,"4°48'54.2""N 74°37'04.7""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"227",228,Libardo Camelo Moreno,80402772,A2,3156516850,Rural,Tabla alta,4.88775,-74.592806,"4°53'15.9""N 74°35'34.1""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"228",229,Edwin German Silva Arias,80833700,D21*,3004723110,Rural,Batan,4.783,-74.658111,"4°46'58.8""N 74°39'29.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"229",230,Javier Ramirez Manrique,80401743,NT*,3133833460,Rural,San Nicolas,4.769944,-74.672194,"4°46'11.8""N 74°40'19.9""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"230",231,Luz Marina Cordoba Leon,20905682,B5,3132014020,Rural,San Nicolas,4.768,-74.671389,"4°46'04.8""N 74°40'17.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"231",232,Martha Sofia Arias Bohorquez,1003496020,C1,3135667790,Rural,San Nicolas,4.766361,-74.671556,"4°45'58.9""N 74°40'17.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"232",233,Fanny Marcely Ramirez,20904999,C16,3142567270,Rural,San Nicolas,4.771444,-74.671833,"4°46'17.2""N 74°40'18.6""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"233",234,Luis Eduardo Rodriguez Caro,13790758,B4,3138080900,Rural,San Nicolas,4.774111,-74.671139,"4°46'26.8""N 74°40'16.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"234",235,Maria Elena Alvarez Carreño,52073448,C1,3229193990,Rural,San Nicolas,4.777194,-74.669639,"4°46'37.9""N 74°40'10.7""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"235",236,Luz Mery Arias Rodriguez,28741644,A3,3205716460,Rural,San Nicolas,4.771417,-74.671833,"4°46'17.1""N 74°40'18.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"236",237,Ana Isabel Arias Arias,20903945,B3,3161909730,Rural,San Nicolas,4.770944,-74.672222,"4°46'15.4""N 74°40'20.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"237",238,Miguel Garcia Ayala,3163343,B2,3239178260,Rural,La mesita,4.839417,-74.60825,"4°50'21.9""N 74°36'29.7""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"238",239,Gloria Ines Basto,2094593,NT*,3132338200,Urbano,San Juan de Rioseco,4.850611,-74.621222,"4°51'02.2""N 74°37'16.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"239",240,Maria Yaled Martinez Cardenas,20368235,D21*,3132288200,Rural,Santa teresa,4.889778,-74.605889,"4°53'23.2""N 74°36'21.2""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"240",241,Lucy Enriqueta Vanegas Martinez,20903294,A2,3133264250,Rural,La siria,4.861806,-74.600306,"4°51'42.5""N 74°36'01.1""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"241",242,Angel Alfonso Molina Riaño,3163134,B2,3148476330,Rural,El caucho,4.878639,-74.596389,"4°52'43.1""N 74°35'47.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"242",243,Jose Edilberto Vanegas Martinez,3162035,C9,3133264250,Rural,El caucho,4.876306,-74.598833,"4°52'34.7""N 74°35'55.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"243",244,Martha Elsy Orjuela soriano,20904875,B5,3022848410,Rural,El caucho,4.876417,-74.59925,"4°52'35.1""N 74°35'57.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"244",245,Luis Alfonso Arias Lasso,5855375,C1,3134878350,Rural,El caucho,4.874861,-74.598361,"4°52'29.5""N 74°35'54.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"245",246,Jazmín Mahecha cadena,20908500,C2,3183995270,Urbano,Cambao,4.906139,-74.736278,"4°54'22.1""N 74°44'10.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"246",247,Melida Romero Murcia,65756183,C15,3138246220,Urbano,Cambao,4.91025,-74.736722,"4°54'36.9""N 74°44'12.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"247",248,Luz Maritza Romero Murcia,51876730,B1,3135330050,Urbano,Cambao,4.910056,-74.737167,"4°54'36.2""N 74°44'13.8""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"248",249,Jesus Alberto Pinzón Romero,1106741610,B1,3127481480,Urbano,Cambao,4.91025,-74.736861,"4°54'36.9""N 74°44'12.7""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"249",250,Wilson Ayala Beltrán,3163905,C3,3224138380,Urbano,Cambao,4.909944,-74.736139,"4°54'35.8""N 74°44'10.1""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"250",251,Lyda Yesenia Aya la Bustos,28798253,B4,3162733740,Urbano,Cambao,4.909389,-74.736556,"4°54'33.8""N 74°44'11.6""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"251",252,Gonzalo Bastó Busto,14270805,B5,3168924190,Urbano,Cambao,4.909528,-74.7365,"4°54'34.3""N 74°44'11.4""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"252",253,Milena Ayala Peña,24716584,B3,3043527020,Urbano,Cambao,4.909,-74.738194,"4°54'32.4""N 74°44'17.5""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"253",254,Maria Stella Sánchez Cespedes,28798881,A4,3224749930,Urbano,Cambao,4.908861,-74.737806,"4°54'31.9""N 74°44'16.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"254",255,Gloria Avila de Martinez,28016481,B4,3017128060,Urbano,Cambao,4.910167,-74.735944,"4°54'36.6""N 74°44'09.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"255",256,Maria Humbertina céspedes medina,65500085,A2,3172396500,Urbano,Cambao,4.905889,-74.738861,"4°54'21.2""N 74°44'19.9""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"256",257,Yessica Paola Hernández Cortes,1012395940,B6,3232520290,Urbano,Cambao,4.905833,-74.738889,"4°54'21.0""N 74°44'20.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"257",258,Jenny maricela Ibañez,28798683,C4,3174352930,Urbano,Cambao,4.904361,-74.729722,"4°54'15.7""N 74°43'47.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"258",259,Alcila Cruz Santos,20908513,B3,3229309260,Urbano,Cambao,4.907167,-74.73725,"4°54'25.8""N 74°44'14.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"259",260,Claudia Patricia Gomez Rodriguez,20905709,C8,3133520410,Urbano,Cambao,4.908556,-74.738194,"4°54'30.8""N 74°44'17.5""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"260",261,Carolina Ayala,1069433950,B2,3188774520,Urbano,Cambao,4.909167,-74.738444,"4°54'33.0""N 74°44'18.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"261",262,Calmen Julia Ayala de Romero,20908437,B3,3104756340,Urbano,Cambao,4.90475,-74.730167,"4°54'17.1""N 74°43'48.6""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"262",263,Diana Marcela camelo,1109380130,B1,3124710950,Urbano,Cambao,4.904194,-74.731806,"4°54'15.1""N 74°43'54.5""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"263",264,Angie Mayre Pinilla Gomez,1109387820,A2,3208013900,Urbano,Cambao,4.906806,-74.738917,"4°54'24.5""N 74°44'20.1""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"264",265,Orlando Ayala Sáenz,3163829,B4,3148321350,Urbano,Cambao,4.908361,-74.737472,"4°54'30.1""N 74°44'14.9""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"265",266,Cristina Saenz,20358339,D6,3106870680,Urbano,Cambao,4.910083,-74.736611,"4°54'36.3""N 74°44'11.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"266",267,Anacilia Ayala Ayala,20461716,C12,3106750040,Urbano,Cambao,4.910167,-74.737139,"4°54'36.6""N 74°44'13.7""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"267",268,Isabel Sánchez Caballero,20394940,C5,3214091440,Urbano,Cambao,4.906861,-74.737833,4°54'24.7''N 74°44'16.2''W,San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"268",269,Oscar Romero Cortes,14273698,B7,3214582760,Urbano,Cambao,4.910139,-74.7365,"4°54'36.5""N 74°44'11.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"269",270,Arturo García,14270709,C11,318795907,Urbano,Cambao,4.910278,-74.737056,"4°54'37.0""N 74°44'13.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"272",273,Maribel Piniña Vasquez,53037475,B5,3162386860,Urbano,Cambao,4.907389,-74.738222,"4°54'26.6""N 74°44'17.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"273",274,Wilson Marin Asdrubal Cruz,79215024,C1,3125034140,Urbano,Cambao,4.906361,-74.739111,"4°54'22.9""N 74°44'20.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"274",275,Claudia Milena Quintana Baena,65501363,C16,3145346530,Urbano,Cambao,4.906222,-74.739,"4°54'22.4""N 74°44'20.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"275",276,Alcira Sáenz,20908392,B5,3138322150,Urbano,Cambao,4.908389,-74.737583,"4°54'30.2""N 74°44'15.3""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"276",277,Jairo David Muñoz,3163870,B4,3124279650,Urbano,Cambao,4.907167,-74.736167,"4°54'25.8""N 74°44'10.2""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"277",278,Ercilia Muñoz,20908464,B2,3214849740,Urbano,Cambao,4.907083,-74.736222,"4°54'25.5""N 74°44'10.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"278",279,Carlos Eduardo Ortega,14271717,B4,3158774320,Urbano,Cambao,4.907167,-74.736222,"4°54'25.8""N 74°44'10.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"279",280,Jeferson Muñoz Ortega,1022336460,NT*,3215647900,Urbano,Cambao,4.90725,-74.736278,"4°54'26.1""N 74°44'10.6""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"280",281,Daniela Linares,109387616,NT*,1109387620,Urbano,Cambao,4.907056,-74.737611,"4°54'25.4""N 74°44'15.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"281",282,Leonardo Barragán Camero,1069434330,B3,3024743870,Urbano,San Juan de Rioseco,4.845361,-74.623056,"4°50'43.3""N 74°37'23.0""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"282",283,Josefina Domínguez Aguilar,51988553,B1,0,Rural,San Nicolas,4.772778,-74.668778,"4°46'22.0""N 74°40'07.6""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"283",284,Luz Dary Herrera Bohorquez,52479305,B5,3185921180,Rural,Honduras alto,4.812917,-74.655611,"4°48'46.5""N 74°39'20.2""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"284",285,Herminia Rairan,20903152,A5,3125339920,Rural,Santa Teresa,4.881667,-74.616472,"4°52'54.0""N 74°36'59.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"285",286,Pedronel Soriano Munar,3161838,B7,3107555960,Rural,Santa Teresa,4.87425,-74.607361,"4°52'27.3""N 74°36'26.5""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"286",287,Flor Alba Fandiño,20904325,B5,3223060910,Rural,Santa Teresa,4.87475,-74.607694,"4°52'29.1""N 74°36'27.7""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"287",288,Alcidiades López Parada,10194385,B6,3128090500,Rural,Santa Teresa,4.876444,-74.608361,"4°52'35.2""N 74°36'30.1""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"288",289,Julio Enrique López Ortiz,19385527,B2,3213677530,Rural,Santa Teresa,4.875917,-74.608139,"4°52'33.3""N 74°36'29.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"289",290,Miguel Mora Castañeda,378658,A3,3134265840,Rural,Santa Teresa,4.879361,-74.607611,"4°52'45.7""N 74°36'27.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"290",291,Edilberto Riaño,80401537,B4,3105642740,Rural,Santa Teresa,4.884944,-74.61,"4°53'05.8""N 74°36'36.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"291",292,Esther González,201903652,NT*,3227432070,Rural,Santa Teresa,4.887583,-74.609,"4°53'15.3""N 74°36'32.4""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"292",293,María Custodia Parada,20217557,B3,3208830600,Rural,Santa Teresa,4.887583,-74.608972,"4°53'15.3""N 74°36'32.3""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"293",294,Ana Ligia Contreras Parada,51863536,C4,3208830600,Rural,Santa Teresa,4.887583,-74.609,"4°53'15.3""N 74°36'32.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
+"294",295,María del Carmen Ramírez Cajica,20903021,A3,3123183170,Rural,Santa Teresa,4.883028,-74.609722,"4°52'58.9""N 74°36'35.0""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"295",296,Emelina Segura Pedreros,41765884,B6,3134190090,Rural,Santa Teresa,4.879056,-74.610639,"4°52'44.6""N 74°36'38.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"296",297,Marleni lucero Valdiri Rodríguez,20905783,B4,3202084320,Rural,Santa Teresa,4.879194,-74.6165,"4°52'45.1""N 74°36'59.4""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"297",298,Eudosio Moreno,93060388,C15,3223150700,Rural,San Nicolas,4.757361,-74.60825,"4°45'26.5""N 74°40'29.7""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"298",299,Cenaida Ayala Ayala,20461715,B7,3188770900,Urbano,Cambao,4.909806,-74.736028,4°54’35.3’’N 74°44’09.7’’W,San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"299",300,Diva Ines Martinez Castillo,28799417,C6,3108586780,Urbano,Cambao,4.907389,-74.734806,4°54´26.6’’N 74°44’05.3’’W,San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
