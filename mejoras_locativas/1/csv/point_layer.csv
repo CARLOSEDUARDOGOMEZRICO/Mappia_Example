@@ -122,7 +122,6 @@ qc_id,item,nombre_y_a,cedula,grupo_del,telefono,zona,localizaci,latitud,longitud
 "120",121,Blanca Leonor Sanchez,20903410,A4,3173011330,Rural,El limon,4.861056,-74.631111,"4°51'39.8""N 74°37'52.0""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
 "121",122,Rosalia Sanabria Cespedes,20903421,A2,3168790500,Rural,El capote,4.830222,-74.639806,"4°49'48.8""N 74°38'23.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
 "122",123,Agueda Vargas Chaparro,20904994,B5,3143000320,Rural,El capote,4.831194,-74.632889,"4°49'52.3""N 74°37'58.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
-"270",271,William Saenz Ocampo,1072006440,B1,3208238530,Urbano,Cambao,4.907417,-74.738417,"4°54'26.7""N 74°44'18.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
 "123",124,Maria Alejandra Garcia Alvarez,1120871080,NT*,3182264960,Rural,El capote,4.8215,-74.651917,"4°49'17.4""N 74°39'06.9""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
 "124",125,Aldemar Dominguez Tunjano,80402716,C3,3228397340,Rural,San Nicolas,4.761028,-74.653833,"4°45'39.7""N 74°39'13.8""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
 "125",126,Cristian Quiroga Camacho,80403992,C3,3142346380,Rural,San Jose,4.748417,-74.671222,"4°44'54.3""N 74°40'16.4""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
@@ -181,7 +180,6 @@ qc_id,item,nombre_y_a,cedula,grupo_del,telefono,zona,localizaci,latitud,longitud
 "178",179,Maria Stella Cely Cepeda,51748326,A4,3114097920,Rural,San Nicolas,4.765528,-74.67575,"4°45'55.9""N 74°40'32.7""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
 "179",180,Gloria Marin Calderon,20902514,A3,3152283700,Rural,Santa teresa,4.872472,-74.595028,"4°52'20.9""N 74°35'42.1""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
 "180",181,Didima Rodriguez,20863793,B7,3025549670,Rural,San Isidro,4.804611,-74.584167,"4°48'16.6""N 74°35'03.0""W",San Juan de Rioseco,Cundinamarca,Baño,Completo,./0.png
-"271",272,Saenz Vasquez,1109380330,C18,3209379800,Urbano,Cambao,4.907556,-74.738194,"4°54'27.2""N 74°44'17.5""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
 "181",182,Luis Eduardo Bernal Rodriguez,80402111,B2,3025549670,Rural,San Isidro,4.80325,-74.5825,"4°48'11.7""N 74°34'57.0""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
 "182",183,Pablo Ramirez Manrique,80403459,B5,3203273560,Rural,San Nicolas,4.769917,-74.672444,"4°46'11.7""N 74°40'20.8""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
 "183",184,Ferney Silva,804044011,NT*,3204140060,Rural,San Nicolas,4.77125,-74.673222,"4°46'16.5""N 74°40'23.6""W",San Juan de Rioseco,Cundinamarca,Cocina - Habitación,Completo,./0.png
@@ -271,6 +269,8 @@ qc_id,item,nombre_y_a,cedula,grupo_del,telefono,zona,localizaci,latitud,longitud
 "267",268,Isabel Sánchez Caballero,20394940,C5,3214091440,Urbano,Cambao,4.906861,-74.737833,4°54'24.7''N 74°44'16.2''W,San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
 "268",269,Oscar Romero Cortes,14273698,B7,3214582760,Urbano,Cambao,4.910139,-74.7365,"4°54'36.5""N 74°44'11.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
 "269",270,Arturo García,14270709,C11,318795907,Urbano,Cambao,4.910278,-74.737056,"4°54'37.0""N 74°44'13.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
+"270",271,William Saenz Ocampo,1072006440,B1,3208238530,Urbano,Cambao,4.907417,-74.738417,"4°54'26.7""N 74°44'18.3""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
+"271",272,Saenz Vasquez,1109380330,C18,3209379800,Urbano,Cambao,4.907556,-74.738194,"4°54'27.2""N 74°44'17.5""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
 "272",273,Maribel Piniña Vasquez,53037475,B5,3162386860,Urbano,Cambao,4.907389,-74.738222,"4°54'26.6""N 74°44'17.6""W",San Juan de Rioseco,Cundinamarca,Baño - Cocina,Completo,./0.png
 "273",274,Wilson Marin Asdrubal Cruz,79215024,C1,3125034140,Urbano,Cambao,4.906361,-74.739111,"4°54'22.9""N 74°44'20.8""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
 "274",275,Claudia Milena Quintana Baena,65501363,C16,3145346530,Urbano,Cambao,4.906222,-74.739,"4°54'22.4""N 74°44'20.4""W",San Juan de Rioseco,Cundinamarca,Baño - Habitación,Completo,./0.png
